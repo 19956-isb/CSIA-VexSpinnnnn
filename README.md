@@ -1,0 +1,2 @@
+# CSIA-VexSpinnnnn
+This CS IA is a basic introduction to the affects of gears on circular velocity and torque. A lot of it does not look nice and should be taken for as it is... an introduction! After playing around a little with this program I highly suggest that you take your time to see the affects in real life by testing out the gears on your vex robots. You may be surprised to see just how effective gear ratios can be!
